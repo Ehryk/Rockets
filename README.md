@@ -8,6 +8,7 @@ These are various codes and plans for launching, logging, and controlling model 
 Launchers are projects that will ignite the rocket engines, usually housed external to the rocket.
 
  - CountdownLauncher
+   - Successfully Launched 4.13.2014. See the video here: https://www.youtube.com/watch?v=8NayFQ-uk0M
  - BluetoothLauncher
 
 ##DataLoggers
